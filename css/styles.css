@@ -1,0 +1,18 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+h2{
+  color: red;
+  font-style: italic;
+  text-align: center;
+}
+p{
+  font-family: monospace;
+}
+ul{
+  line-height: 20px;
+}
+body{
+  background-color: #C1C6CF;
+}
